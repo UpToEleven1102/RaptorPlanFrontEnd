@@ -1,0 +1,25 @@
+:host{
+    background-color: white;
+}
+
+section {
+    padding-top: 15vh;
+    height: 100vh;
+}
+
+section > div {
+    text-align: center;
+}
+
+h3{margin-bottom: 30px;}
+
+img {
+    height: 2em;
+}
+
+/* .transfer-schools{
+    text-align: left;
+    padding-left: 20%;
+} */
+
+
